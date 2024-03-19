@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "BLy9dHjV+W3nDBQwAydX447W6oVouTWMOjEZCPksv2U=",
+  "Source": "GRPCMessage",
+  "BasePath": "_content/GRPCMessage",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

@@ -1,0 +1,18 @@
+syntax = "proto3";
+
+option csharp_namespace = "GRPCMessage";
+
+package message;
+
+service WeatherT{
+    rpc GetWeather(WeatherCity) returns (WeatherState);
+}
+
+message WeatherState{
+    string IsRain = 1;
+    string IsHot = 2;
+}
+
+message WeatherCity{
+    string name = 1;
+}

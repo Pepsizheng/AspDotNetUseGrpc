@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "MF94anCee9Qcej6CafSwD9YhM2BnT35GisUd8aV2DTwXx++2bGEW3fPyZtSbG3QGu9qEfPe/HEhbCQlQOTgrzg==",
+  "success": true,
+  "projectFilePath": "/workspaces/AspDotNetUseGrpc/GRPCClient/GRPCClient.csproj",
+  "expectedPackageFiles": [
+    "/home/codespace/.nuget/packages/google.protobuf/3.26.0/google.protobuf.3.26.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/grpc.core.api/2.61.0/grpc.core.api.2.61.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/grpc.net.client/2.61.0/grpc.net.client.2.61.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/grpc.net.common/2.61.0/grpc.net.common.2.61.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/grpc.tools/2.62.0/grpc.tools.2.62.0.nupkg.sha512",
+    "/home/codespace/.nuget/packages/microsoft.extensions.logging.abstractions/6.0.0/microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
